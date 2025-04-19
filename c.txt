@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 "Hello from c"
 
+=======
+"Hello from c"
+>>>>>>> b2
