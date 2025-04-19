@@ -1,1 +1,1 @@
-"Hello from b-b2"
+"Hello from b"
